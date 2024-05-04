@@ -74,7 +74,7 @@ console.log("listener creato sul submit di login");
 
 
 // chiave per accweather
-const  key= 'eRzOUAGG87J6ainXjANtAYpp7OuK9aXr'
+const  key= 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 
 const forecast_form = document.querySelector("#forecast_form");
 forecast_form.addEventListener('submit', forecast_finder);
@@ -123,17 +123,13 @@ function onlocationJSON(json){
 
 
 
-
-
-// Per aggiungere le icone relative al meteo
-// const icon_key= "134017e497894b0d954f43c1d5e31150";
-// const icon_sec= "c3a24bfc84ae4bba9e4ceb164353da6b";
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 // API SPOTIFY
 
-const spotify_id= "5263fc2a7e644de1b98d43e7df43ce13";
-const spotify_secret = "1ad470fcbc7f4a9b8c3bbfb9a9111b12";
+const spotify_id= "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
+const spotify_secret = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 
 let token;
 
